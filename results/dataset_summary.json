@@ -1,0 +1,22 @@
+{
+  "formato_dataset": "crema",
+  "total_archivos": 7442,
+  "archivos_entrenamiento": 5953,
+  "archivos_prueba": 1489,
+  "emociones": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad"
+  ],
+  "distribucion_emociones": {
+    "angry": 1271,
+    "disgust": 1271,
+    "fear": 1271,
+    "happy": 1271,
+    "neutral": 1087,
+    "sad": 1271
+  }
+}

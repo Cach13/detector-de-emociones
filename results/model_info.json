@@ -1,0 +1,26 @@
+{
+  "architecture": "CNN",
+  "input_shape": [
+    128,
+    128,
+    3
+  ],
+  "num_classes": 6,
+  "class_names": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad"
+  ],
+  "total_params": 488870,
+  "epochs_trained": 35,
+  "best_epoch": 25,
+  "best_validation_accuracy": 0.5970450043678284,
+  "final_training_accuracy": 0.7691919803619385,
+  "final_validation_accuracy": 0.5957018136978149,
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "batch_size": 32
+}
